@@ -7,7 +7,7 @@ https://www.bioconductor.org/packages/release/bioc/html/pandaR.html
 
 You need three matrix to run Meap:
 
-![Image description](./Capture1.PNG)
+![Image description](./Capture1.png)
 
 Here is an example of how to use Meap:
 https://nbviewer.jupyter.org/github/FADHLyemen/MEAP/blob/master/MeaP.ipynb
