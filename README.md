@@ -6,9 +6,13 @@ It used  panda function implemented in PandaR R package.
 https://www.bioconductor.org/packages/release/bioc/html/pandaR.html
 
 You need three matrices to run Meap:
+
 1- Metabolites-Metabolites correlation  (M X M)
+
 2- Metabolite enzyme interaction from KEGG (M X E)
+
 3- Protien Protein interaction (E X E)
+
 
 ![Image description](./Capture1.png)
 
