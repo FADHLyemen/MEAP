@@ -7,7 +7,7 @@ https://www.bioconductor.org/packages/release/bioc/html/pandaR.html
 
 You need three matrix to run Meap:
 
-![Image description](./MeiP metabolite enzyme interaction predictor.jpg)
+![Image description](./Capture1.PNG)
 
 Here is an example of how to use Meap:
 https://nbviewer.jupyter.org/github/FADHLyemen/MEAP/blob/master/MeaP.ipynb
